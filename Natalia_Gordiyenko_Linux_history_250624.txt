@@ -9,6 +9,6 @@
    8 chmod u-r file.txt
    9 ls - la
   10 ls -la
-  11 chmod +x file.txt
+  11 chmod o+x file.txt
   12 ls -la
   13 history > history.txt
